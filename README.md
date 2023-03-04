@@ -12,10 +12,10 @@ An AI Assistant inside a vintage style chatbox terminal. It assists with Help De
 
 The Features:
 
-Tells you the weather when you input "What is the weather like in {City Name}"
+-Tells you the weather when you input "What is the weather like in {City Name}"
 
-Tells you a summary of a Youtube video when you enter a youtube link
+-Tells you a summary of a Youtube video when you enter a youtube link
 
-Administrative tasks such as changing passwords and disabling accounts via Azure AD
+-Administrative tasks such as changing passwords and disabling accounts via Azure AD
 
-Utilizes a fine tuned ChatGPT in which it can help troubleshoot/brainstorm tickets
+-Utilizes a fine tuned ChatGPT in which it can help troubleshoot/brainstorm tickets
